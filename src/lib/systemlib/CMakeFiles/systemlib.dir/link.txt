@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsystemlib.a  CMakeFiles/systemlib.dir/conversions.c.o CMakeFiles/systemlib.dir/cpuload.c.o CMakeFiles/systemlib.dir/crc.c.o CMakeFiles/systemlib.dir/mavlink_log.c.o CMakeFiles/systemlib.dir/otp.c.o CMakeFiles/systemlib.dir/print_load_posix.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsystemlib.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libFlightTask.a  CMakeFiles/FlightTask.dir/FlightTask.cpp.o CMakeFiles/FlightTask.dir/SubscriptionArray.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libFlightTask.a

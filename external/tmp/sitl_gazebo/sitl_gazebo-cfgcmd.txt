@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.14.5/bin/cmake;-DCMAKE_INSTALL_PREFIX=/usr/local;-DSEND_VISION_ESTIMATION_DATA=ON;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

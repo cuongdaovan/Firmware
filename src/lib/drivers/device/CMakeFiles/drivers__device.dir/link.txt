@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libdrivers__device.a  CMakeFiles/drivers__device.dir/CDev.cpp.o CMakeFiles/drivers__device.dir/ringbuffer.cpp.o CMakeFiles/drivers__device.dir/integrator.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libdrivers__device.a

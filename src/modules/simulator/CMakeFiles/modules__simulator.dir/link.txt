@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libmodules__simulator.a  CMakeFiles/modules__simulator.dir/simulator.cpp.o CMakeFiles/modules__simulator.dir/simulator_mavlink.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libmodules__simulator.a

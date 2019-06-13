@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libcdev.a  CMakeFiles/cdev.dir/CDev.cpp.o CMakeFiles/cdev.dir/posix/cdev_platform.cpp.o CMakeFiles/cdev.dir/posix/vfile.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libcdev.a

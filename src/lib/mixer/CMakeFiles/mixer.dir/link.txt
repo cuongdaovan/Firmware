@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libmixer.a  CMakeFiles/mixer.dir/mixer.cpp.o CMakeFiles/mixer.dir/mixer_group.cpp.o CMakeFiles/mixer.dir/mixer_helicopter.cpp.o CMakeFiles/mixer.dir/mixer_load.c.o CMakeFiles/mixer.dir/mixer_multirotor.cpp.o CMakeFiles/mixer.dir/mixer_simple.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libmixer.a

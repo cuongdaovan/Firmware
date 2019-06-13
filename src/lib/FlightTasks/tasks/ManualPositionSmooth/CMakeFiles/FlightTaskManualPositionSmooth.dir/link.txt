@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libFlightTaskManualPositionSmooth.a  CMakeFiles/FlightTaskManualPositionSmooth.dir/FlightTaskManualPositionSmooth.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libFlightTaskManualPositionSmooth.a

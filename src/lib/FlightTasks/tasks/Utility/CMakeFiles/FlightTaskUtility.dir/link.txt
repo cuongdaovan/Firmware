@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libFlightTaskUtility.a  CMakeFiles/FlightTaskUtility.dir/ManualSmoothingZ.cpp.o CMakeFiles/FlightTaskUtility.dir/ManualSmoothingXY.cpp.o CMakeFiles/FlightTaskUtility.dir/ObstacleAvoidance.cpp.o CMakeFiles/FlightTaskUtility.dir/StraightLine.cpp.o CMakeFiles/FlightTaskUtility.dir/VelocitySmoothing.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libFlightTaskUtility.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libmodules__sensors.a  CMakeFiles/modules__sensors.dir/voted_sensors_update.cpp.o CMakeFiles/modules__sensors.dir/rc_update.cpp.o CMakeFiles/modules__sensors.dir/sensors.cpp.o CMakeFiles/modules__sensors.dir/parameters.cpp.o CMakeFiles/modules__sensors.dir/temperature_compensation.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libmodules__sensors.a
